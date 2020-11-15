@@ -8,11 +8,11 @@ Thomas Tran
 
 # tools
 Linux Mint  
-Python  
+Python 2.7.18  
 
 # configuration
 $ sudo apt update  
-$ sudo install python3-minimal  
+$ sudo install python  
 $ chmod +x myecho.py  
 $ mv myecho.py myecho  
 $ mkdir -p ~/bin  
