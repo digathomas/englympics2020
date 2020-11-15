@@ -20,4 +20,4 @@ $ cp myecho ~/bin
 $ export PATH=$PATH" :$HOME/bin"  
 
 You can now run the code with cmd line:  
-$ myecho <args>  
+$ myecho "<args>"  
