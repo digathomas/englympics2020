@@ -13,11 +13,11 @@ Python 2.7.18
 # configuration
 $ sudo apt update  
 $ sudo install python  
-$ chmod +x myecho.py  
-$ mv myecho.py myecho  
+$ chmod +x analyze.py  
+$ mv analyze.py analyze  
 $ mkdir -p ~/bin  
-$ cp myecho ~/bin  
+$ cp analyze ~/bin  
 $ export PATH=$PATH" :$HOME/bin"  
 
 You can now run the code with cmd line:  
-$ myecho "<args>"  
+$ analyze __path_of_json__  
