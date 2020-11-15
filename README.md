@@ -1,14 +1,14 @@
 # englympics2020
 
 # contributors
-Jessica Alicandro
-Hadi Hawi
-Andre Saad
-Thomas Tran
+Jessica Alicandro  
+Hadi Hawi  
+Andre Saad  
+Thomas Tran  
 
 # tools
-Linux Mint
-Python
+Linux Mint  
+Python  
 
 # configuration
 $ sudo apt update  
@@ -20,4 +20,4 @@ $ cp myecho ~/bin
 $ export PATH=$PATH" :$HOME/bin"  
 
 You can now run the code with cmd line:  
-$ myecho <args>
+$ myecho <args>  
