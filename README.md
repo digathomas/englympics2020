@@ -20,4 +20,4 @@ $ cp analyze ~/bin
 $ export PATH=$PATH" :$HOME/bin"  
 
 You can now run the code with cmd line:  
-$ analyze __path_of_json__  
+$ analyze "path_of_json"  
